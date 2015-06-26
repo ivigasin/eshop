@@ -1,0 +1,4 @@
+eshop_user:
+    resource: "@eshopUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
